@@ -2,3 +2,4 @@
 * ❤️ I'm in love with ReactJS, TailwindCSS and Laravel
 * 🎲 Currently learning Godot game engine and React Native
 * 🤸 Would be incredibly happy to callaborate on something with someone
+* 📞 You can contact me through my website [skrazzo.xyz](https://skrazzo.xyz/contact)
